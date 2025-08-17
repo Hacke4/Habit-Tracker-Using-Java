@@ -47,6 +47,35 @@ Habit-Tracker/
 ```bash
    javac Main.java
    java Main
+```
+3.Usage
+When you run the program, you’ll see a menu like this:
+
+```bash
+1. Add Habit  
+2. Modify Habit  
+3. Delete Habit  
+4. View Habits  
+5. Exit 
+```
+
+Example habit list output:  
+```bash
+
+1. ✅Done  Exercise at 05:00 | Time left: -15 hrs -42 min [Today]  
+2. ❌Not Done  Lunch at 14:00 | Time left: -6 hrs -42 min [Today]  
+3. ❌Not Done  Dinner at 21:00 | Time left: 0 hrs 17 min [Today]  
+
+Progress: 1/3 habits completed (33%)
+```
+
+
+
+ 
+
+
+
+
 
 
 
