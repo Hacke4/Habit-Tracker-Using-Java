@@ -46,11 +46,7 @@ Habit-Tracker/
 
 ```bash
    javac Main.java
-    java Main
-
-## Follow the on-screen menu to manage your habits 🎯.
-
-
+   java Main
 
 
 
