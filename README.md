@@ -26,9 +26,9 @@ Designed to demonstrate **OOP, JSON persistence, and CLI**.
 ---
 
 ## 📂 Project Structure
-Habit-Tracker/
-\n│── Main.java # Entry point (menu-driven CLI)  
-\n│── HabitManager.java # Manages all habits  
+Habit-Tracker/  
+── Main.java # Entry point (menu-driven CLI)  
+── HabitManager.java # Manages all habits  
 │── HabitsActions.java # Habit class with actions  
 │── habits.json # Stores all habits persistently  
 │── README.md # Project documentation  
